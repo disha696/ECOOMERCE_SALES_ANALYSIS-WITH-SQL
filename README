@@ -1,0 +1,43 @@
+# Task 3 - SQL for Data Analysis
+
+## Objective
+Use SQL queries to extract and analyse data from an Ecommerce database.
+
+## Tools Used
+- MySQL
+- MySQL Workbench
+
+## Topics Covered
+- SELECT
+- WHERE
+- ORDER BY
+- GROUP BY
+- SUM()
+- AVG()
+- INNER JOIN
+- LEFT JOIN
+- RIGHT JOIN
+- Subqueries
+- NULL Handling
+- Views
+- Indexes
+- Query Optimisation
+
+## Database
+Ecommerce Database
+
+## Tables
+- customers
+- products
+- orders
+
+## Project Work
+This project includes SQL queries for data extraction, filtering, sorting, grouping, aggregation, joining multiple tables, subqueries, NULL handling, views and query optimisation.
+
+## Deliverables
+- SQL query file
+- SQL output screenshots
+- Database analysis
+
+## Author
+Disha Dongre
